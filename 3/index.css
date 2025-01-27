@@ -1,0 +1,19 @@
+
+header{
+    background-color: aqua;
+    height: 50px;
+    position: sticky;
+    top: 0;
+}
+
+h2{
+    padding: 10px;
+}
+
+main{
+    background-color: gray;
+    height: 2000px;
+    width: 100%;
+    margin: 0;
+    display: inline-block;
+}

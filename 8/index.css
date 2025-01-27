@@ -1,0 +1,65 @@
+section {
+  background-color: gray;
+  position: relative;
+  height: 800px;
+  width: 800px;
+  margin: auto;
+  margin-top: 200px;
+}
+
+div {
+  position: absolute;
+  background-color: black;
+  height: 160px;
+  width: 160px;
+}
+
+.d1 {
+  right: 0px;
+}
+.d2 {
+  right: 320px;
+}
+.d3 {
+  left: 0px;
+}
+.d4 {
+  top: 160px;
+  right: 160px;
+}
+.d5 {
+  top: 160px;
+  left: 160px;
+}
+.d6 {
+  top: 320px;
+  right: 0px;
+}
+.d7 {
+  top: 320px;
+  right: 320px;
+}
+.d8 {
+  top: 320px;
+  left: 0px;
+}
+.d9 {
+  bottom: 160px;
+  right: 160px;
+}
+.d10 {
+  bottom: 160px;
+  left: 160px;
+}
+.d11 {
+  bottom: 0px;
+  right: 0px;
+}
+.d12 {
+  bottom: 0px;
+  right: 320px;
+}
+.d13 {
+  bottom: 0px;
+  left: 0px;
+}

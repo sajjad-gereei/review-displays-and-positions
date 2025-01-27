@@ -1,0 +1,14 @@
+
+section{
+    background-color: aqua;
+height: 50px;
+width: 130px;
+position: absolute;
+top: 50%;
+left: 50%;
+}
+
+
+p{
+   padding:0px 10px;
+}

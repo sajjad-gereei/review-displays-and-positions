@@ -1,0 +1,22 @@
+body{
+    position: relative;
+}
+
+div{
+ width: 350px;
+height: 120px;
+display: inline-block;
+position: absolute;
+}
+
+.one{
+    background-color: cyan;
+    
+}
+
+.two{
+    background-color: orange;
+    left: 50px;
+    top: 50px;
+    /* z-index: 999; */
+}

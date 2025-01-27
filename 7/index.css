@@ -1,0 +1,70 @@
+
+
+
+.saqe{
+background-color: green;
+height: 700px;
+width: 20px;
+position: relative;
+top: 605px;
+left: 1200px;
+}
+
+.barg{
+    background-color: greenyellow;
+    position: absolute;
+    height: 150px;
+    width: 150px;
+border-radius: 0% 100%;
+  right: 20px;
+  top: 300px;
+}
+
+.center{
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    background-color: yellow;
+    left: -10px;
+    top: -10px;
+    z-index: 999111111;
+}
+
+
+.gol1{
+    position: absolute;
+ background-color: red;
+height: 200px;
+width: 200px;
+border-radius: 0% 100%;
+top: 20px;
+left: 25px;
+}
+.gol2{
+    position: absolute;
+    background-color: red;
+   height: 200px;
+   width: 200px;
+   border-radius: 100% 0%;
+   top: 20px;
+   right: 25px;
+   }
+   .gol3{
+    position: absolute;
+    background-color: red;
+   height: 200px;
+   width: 200px;
+   border-radius: 0% 100% 0% 100%;
+   top: -200px;
+   right: 25px;
+   }
+   .gol4{
+    position: absolute;
+    background-color: red;
+   height: 200px;
+   width: 200px;
+   border-radius: 100% 0% 100% 0%;
+   top: -200px;
+   left: 25px;
+   }

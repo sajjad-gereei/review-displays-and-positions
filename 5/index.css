@@ -1,0 +1,21 @@
+
+section{
+    position: relative;
+    border: solid black 3px;
+display: inline-block;
+width: 400px;
+height: 300px;
+}
+
+div{
+    background-color: aqua;
+    display: inline-block;
+    position: absolute;
+    height: 40px;
+    width: 130px;
+    top: 80px;
+    left: 170px;
+    text-align: center;
+    padding-top: 8px;
+    box-sizing: border-box;
+}

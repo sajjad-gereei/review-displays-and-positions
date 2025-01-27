@@ -1,0 +1,53 @@
+
+
+
+section{
+    background-color: aliceblue;
+    position: relative;
+    height: 500px;
+    width: 350px;
+    border: solid rgb(202, 195, 195) 1px;
+    border-radius: 10px;
+}
+
+IMG{
+    position: absolute;
+    border: SOLID black 2PX;
+    border-radius: 20px;
+    width: 300px;
+    top: 20px;
+    left: 20px;
+    
+
+}
+
+h2{
+    position: absolute;
+    top: 245px;
+    left: 20px;
+}
+p{
+    position: absolute;
+    top: 290px;
+    left: 20px;
+    opacity: 70%;
+}
+.price{
+    position: absolute;
+    top: 340px;
+    left: 20px;
+color: chocolate;
+font-weight: bold;
+font-size: 1.5rem;
+}
+
+button{
+    position: absolute;
+    top: 430px;
+    left: 20px; 
+    background-color: chocolate;
+    color: white;
+    border: solid 7px chocolate;
+    border-radius: 15px;
+}
+

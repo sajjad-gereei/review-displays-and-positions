@@ -1,0 +1,39 @@
+
+
+section{
+    width: 600px;
+height: 600px;
+background-color: white;
+border: solid black 2px;
+position: relative;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    position: absolute;
+
+}
+
+.one{
+    left: 20px;
+    top: 20px;
+
+}
+
+.two{
+
+    right: 20px;
+    top: 20px;
+}
+
+.three{
+    left: 20px;
+    bottom: 20px;
+}
+
+.four{
+right: 20px;
+bottom: 20px;
+}
